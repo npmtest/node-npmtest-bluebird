@@ -1,0 +1,843 @@
+<svg height="8366" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="8366" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26"></tspan>
+
+<tspan x="10" y="42">[MODE_BUILD=npmTest] - 2018-06-10T18:28:00.598Z - npm-testing /home/travis/build/npmtest/node-np\</tspan>
+<tspan x="10" y="58">mtest-bluebird</tspan>
+
+<tspan x="10" y="74"></tspan>
+
+<tspan x="10" y="90"></tspan>
+
+<tspan x="10" y="106">covering $ /home/travis/.nvm/versions/node/v6.14.2/bin/node /home/travis/build/npmtest/node-npmt\</tspan>
+<tspan x="10" y="122">est-bluebird/test.js</tspan>
+
+<tspan x="10" y="138"></tspan>
+
+<tspan x="10" y="154">npmTest - merged test-report from file /home/travis/build/npmtest/node-npmtest-bluebird/tmp/buil\</tspan>
+<tspan x="10" y="170">d/test-report.json</tspan>
+
+<tspan x="10" y="186">&gt; server listening on http-port 63630</tspan>
+
+<tspan x="10" y="202">[node test-case 1 of 8 passed] - testCase_buildApidoc_default</tspan>
+
+<tspan x="10" y="218">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="234">d/package.json</tspan>
+
+<tspan x="10" y="250">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="266">d/changelog.md</tspan>
+
+<tspan x="10" y="282">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="298">d/LICENSE</tspan>
+
+<tspan x="10" y="314">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="330">d/package.json</tspan>
+
+<tspan x="10" y="346">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="362">d/README.md</tspan>
+
+<tspan x="10" y="378">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="394">d/js/browser/bluebird.core.js</tspan>
+
+<tspan x="10" y="410">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="426">d/js/browser/bluebird.js</tspan>
+
+<tspan x="10" y="442">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="458">d/js/release/any.js</tspan>
+
+<tspan x="10" y="474">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="490">d/js/release/assert.js</tspan>
+
+<tspan x="10" y="506">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="522">d/js/release/async.js</tspan>
+
+<tspan x="10" y="538">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="554">d/js/release/bind.js</tspan>
+
+<tspan x="10" y="570">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="586">d/js/release/bluebird.js</tspan>
+
+<tspan x="10" y="602">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="618">d/js/release/call_get.js</tspan>
+
+<tspan x="10" y="634">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="650">d/js/release/cancel.js</tspan>
+
+<tspan x="10" y="666">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="682">d/js/release/catch_filter.js</tspan>
+
+<tspan x="10" y="698">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="714">d/js/release/context.js</tspan>
+
+<tspan x="10" y="730">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="746">d/js/release/debuggability.js</tspan>
+
+<tspan x="10" y="762">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="778">d/js/release/direct_resolve.js</tspan>
+
+<tspan x="10" y="794">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="810">d/js/release/each.js</tspan>
+
+<tspan x="10" y="826">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="842">d/js/release/errors.js</tspan>
+
+<tspan x="10" y="858">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="874">d/js/release/es5.js</tspan>
+
+<tspan x="10" y="890">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="906">d/js/release/filter.js</tspan>
+
+<tspan x="10" y="922">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="938">d/js/release/finally.js</tspan>
+
+<tspan x="10" y="954">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="970">d/js/release/generators.js</tspan>
+
+<tspan x="10" y="986">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="1002">d/js/release/join.js</tspan>
+
+<tspan x="10" y="1018">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="1034">d/js/release/map.js</tspan>
+
+<tspan x="10" y="1050">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="1066">d/js/release/method.js</tspan>
+
+<tspan x="10" y="1082">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="1098">d/js/release/nodeback.js</tspan>
+
+<tspan x="10" y="1114">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="1130">d/js/release/nodeify.js</tspan>
+
+<tspan x="10" y="1146">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="1162">d/js/release/promise_array.js</tspan>
+
+<tspan x="10" y="1178">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="1194">d/js/release/promise.js</tspan>
+
+<tspan x="10" y="1210">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="1226">d/js/release/promisify.js</tspan>
+
+<tspan x="10" y="1242">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="1258">d/js/release/props.js</tspan>
+
+<tspan x="10" y="1274">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="1290">d/js/release/queue.js</tspan>
+
+<tspan x="10" y="1306">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="1322">d/js/release/race.js</tspan>
+
+<tspan x="10" y="1338">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="1354">d/js/release/reduce.js</tspan>
+
+<tspan x="10" y="1370">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="1386">d/js/release/schedule.js</tspan>
+
+<tspan x="10" y="1402">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="1418">d/js/release/settle.js</tspan>
+
+<tspan x="10" y="1434">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="1450">d/js/release/some.js</tspan>
+
+<tspan x="10" y="1466">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="1482">d/js/release/synchronous_inspection.js</tspan>
+
+<tspan x="10" y="1498">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="1514">d/js/release/thenables.js</tspan>
+
+<tspan x="10" y="1530">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="1546">d/js/release/timers.js</tspan>
+
+<tspan x="10" y="1562">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="1578">d/js/release/using.js</tspan>
+
+<tspan x="10" y="1594">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="1610">d/js/release/util.js</tspan>
+
+<tspan x="10" y="1626">apidocCreate - requiring /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebird \</tspan>
+<tspan x="10" y="1642">...</tspan>
+
+<tspan x="10" y="1658">apidocCreate - ... required /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebi\</tspan>
+<tspan x="10" y="1674">rd</tspan>
+
+<tspan x="10" y="1690">apidocCreate - libFile js/browser/bluebird.core.js</tspan>
+
+<tspan x="10" y="1706">apidocCreate - libFile js/browser/bluebird.js</tspan>
+
+<tspan x="10" y="1722">apidocCreate - libFile js/release/any.js</tspan>
+
+<tspan x="10" y="1738">apidocCreate - libFile js/release/assert.js</tspan>
+
+<tspan x="10" y="1754">apidocCreate - libFile js/release/async.js</tspan>
+
+<tspan x="10" y="1770">apidocCreate - libFile js/release/bind.js</tspan>
+
+<tspan x="10" y="1786">apidocCreate - libFile js/release/call_get.js</tspan>
+
+<tspan x="10" y="1802">apidocCreate - libFile js/release/cancel.js</tspan>
+
+<tspan x="10" y="1818">apidocCreate - libFile js/release/catch_filter.js</tspan>
+
+<tspan x="10" y="1834">apidocCreate - libFile js/release/context.js</tspan>
+
+<tspan x="10" y="1850">apidocCreate - libFile js/release/debuggability.js</tspan>
+
+<tspan x="10" y="1866">apidocCreate - libFile js/release/direct_resolve.js</tspan>
+
+<tspan x="10" y="1882">apidocCreate - libFile js/release/each.js</tspan>
+
+<tspan x="10" y="1898">apidocCreate - libFile js/release/errors.js</tspan>
+
+<tspan x="10" y="1914">apidocCreate - libFile js/release/es5.js</tspan>
+
+<tspan x="10" y="1930">apidocCreate - libFile js/release/filter.js</tspan>
+
+<tspan x="10" y="1946">apidocCreate - libFile js/release/finally.js</tspan>
+
+<tspan x="10" y="1962">apidocCreate - libFile js/release/generators.js</tspan>
+
+<tspan x="10" y="1978">apidocCreate - libFile js/release/join.js</tspan>
+
+<tspan x="10" y="1994">apidocCreate - libFile js/release/map.js</tspan>
+
+<tspan x="10" y="2010">apidocCreate - libFile js/release/method.js</tspan>
+
+<tspan x="10" y="2026">apidocCreate - libFile js/release/nodeback.js</tspan>
+
+<tspan x="10" y="2042">apidocCreate - libFile js/release/nodeify.js</tspan>
+
+<tspan x="10" y="2058">apidocCreate - libFile js/release/promise_array.js</tspan>
+
+<tspan x="10" y="2074">apidocCreate - libFile js/release/promise.js</tspan>
+
+<tspan x="10" y="2090">apidocCreate - libFile js/release/promisify.js</tspan>
+
+<tspan x="10" y="2106">apidocCreate - libFile js/release/props.js</tspan>
+
+<tspan x="10" y="2122">apidocCreate - libFile js/release/queue.js</tspan>
+
+<tspan x="10" y="2138">apidocCreate - libFile js/release/race.js</tspan>
+
+<tspan x="10" y="2154">apidocCreate - libFile js/release/reduce.js</tspan>
+
+<tspan x="10" y="2170">apidocCreate - libFile js/release/schedule.js</tspan>
+
+<tspan x="10" y="2186">apidocCreate - libFile js/release/settle.js</tspan>
+
+<tspan x="10" y="2202">apidocCreate - libFile js/release/some.js</tspan>
+
+<tspan x="10" y="2218">apidocCreate - libFile js/release/synchronous_inspection.js</tspan>
+
+<tspan x="10" y="2234">apidocCreate - libFile js/release/thenables.js</tspan>
+
+<tspan x="10" y="2250">apidocCreate - libFile js/release/timers.js</tspan>
+
+<tspan x="10" y="2266">apidocCreate - libFile js/release/using.js</tspan>
+
+<tspan x="10" y="2282">apidocCreate - libFile js/release/util.js</tspan>
+
+<tspan x="10" y="2298">created customOrg file /home/travis/build/npmtest/node-npmtest-bluebird/README.md</tspan>
+
+<tspan x="10" y="2314"></tspan>
+
+<tspan x="10" y="2330">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="2346">d/package.json</tspan>
+
+<tspan x="10" y="2362">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="2378">d/changelog.md</tspan>
+
+<tspan x="10" y="2394">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="2410">d/LICENSE</tspan>
+
+<tspan x="10" y="2426">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="2442">d/package.json</tspan>
+
+<tspan x="10" y="2458">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="2474">d/README.md</tspan>
+
+<tspan x="10" y="2490">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="2506">d/js/browser/bluebird.core.js</tspan>
+
+<tspan x="10" y="2522">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="2538">d/js/browser/bluebird.js</tspan>
+
+<tspan x="10" y="2554">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="2570">d/js/release/any.js</tspan>
+
+<tspan x="10" y="2586">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="2602">d/js/release/assert.js</tspan>
+
+<tspan x="10" y="2618">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="2634">d/js/release/async.js</tspan>
+
+<tspan x="10" y="2650">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="2666">d/js/release/bind.js</tspan>
+
+<tspan x="10" y="2682">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="2698">d/js/release/bluebird.js</tspan>
+
+<tspan x="10" y="2714">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="2730">d/js/release/call_get.js</tspan>
+
+<tspan x="10" y="2746">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="2762">d/js/release/cancel.js</tspan>
+
+<tspan x="10" y="2778">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="2794">d/js/release/catch_filter.js</tspan>
+
+<tspan x="10" y="2810">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="2826">d/js/release/context.js</tspan>
+
+<tspan x="10" y="2842">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="2858">d/js/release/debuggability.js</tspan>
+
+<tspan x="10" y="2874">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="2890">d/js/release/direct_resolve.js</tspan>
+
+<tspan x="10" y="2906">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="2922">d/js/release/each.js</tspan>
+
+<tspan x="10" y="2938">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="2954">d/js/release/errors.js</tspan>
+
+<tspan x="10" y="2970">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="2986">d/js/release/es5.js</tspan>
+
+<tspan x="10" y="3002">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="3018">d/js/release/filter.js</tspan>
+
+<tspan x="10" y="3034">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="3050">d/js/release/finally.js</tspan>
+
+<tspan x="10" y="3066">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="3082">d/js/release/generators.js</tspan>
+
+<tspan x="10" y="3098">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="3114">d/js/release/join.js</tspan>
+
+<tspan x="10" y="3130">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="3146">d/js/release/map.js</tspan>
+
+<tspan x="10" y="3162">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="3178">d/js/release/method.js</tspan>
+
+<tspan x="10" y="3194">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="3210">d/js/release/nodeback.js</tspan>
+
+<tspan x="10" y="3226">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="3242">d/js/release/nodeify.js</tspan>
+
+<tspan x="10" y="3258">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="3274">d/js/release/promise_array.js</tspan>
+
+<tspan x="10" y="3290">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="3306">d/js/release/promise.js</tspan>
+
+<tspan x="10" y="3322">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="3338">d/js/release/promisify.js</tspan>
+
+<tspan x="10" y="3354">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="3370">d/js/release/props.js</tspan>
+
+<tspan x="10" y="3386">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="3402">d/js/release/queue.js</tspan>
+
+<tspan x="10" y="3418">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="3434">d/js/release/race.js</tspan>
+
+<tspan x="10" y="3450">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="3466">d/js/release/reduce.js</tspan>
+
+<tspan x="10" y="3482">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="3498">d/js/release/schedule.js</tspan>
+
+<tspan x="10" y="3514">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="3530">d/js/release/settle.js</tspan>
+
+<tspan x="10" y="3546">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="3562">d/js/release/some.js</tspan>
+
+<tspan x="10" y="3578">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="3594">d/js/release/synchronous_inspection.js</tspan>
+
+<tspan x="10" y="3610">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="3626">d/js/release/thenables.js</tspan>
+
+<tspan x="10" y="3642">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="3658">d/js/release/timers.js</tspan>
+
+<tspan x="10" y="3674">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="3690">d/js/release/using.js</tspan>
+
+<tspan x="10" y="3706">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebir\</tspan>
+<tspan x="10" y="3722">d/js/release/util.js</tspan>
+
+<tspan x="10" y="3738">apidocCreate - requiring /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebird \</tspan>
+<tspan x="10" y="3754">...</tspan>
+
+<tspan x="10" y="3770">apidocCreate - ... required /home/travis/build/npmtest/node-npmtest-bluebird/node_modules/bluebi\</tspan>
+<tspan x="10" y="3786">rd</tspan>
+
+<tspan x="10" y="3802">apidocCreate - libFile js/browser/bluebird.core.js</tspan>
+
+<tspan x="10" y="3818">apidocCreate - libFile js/browser/bluebird.js</tspan>
+
+<tspan x="10" y="3834">apidocCreate - libFile js/release/any.js</tspan>
+
+<tspan x="10" y="3850">apidocCreate - libFile js/release/assert.js</tspan>
+
+<tspan x="10" y="3866">apidocCreate - libFile js/release/async.js</tspan>
+
+<tspan x="10" y="3882">apidocCreate - libFile js/release/bind.js</tspan>
+
+<tspan x="10" y="3898">apidocCreate - libFile js/release/call_get.js</tspan>
+
+<tspan x="10" y="3914">apidocCreate - libFile js/release/cancel.js</tspan>
+
+<tspan x="10" y="3930">apidocCreate - libFile js/release/catch_filter.js</tspan>
+
+<tspan x="10" y="3946">apidocCreate - libFile js/release/context.js</tspan>
+
+<tspan x="10" y="3962">apidocCreate - libFile js/release/debuggability.js</tspan>
+
+<tspan x="10" y="3978">apidocCreate - libFile js/release/direct_resolve.js</tspan>
+
+<tspan x="10" y="3994">apidocCreate - libFile js/release/each.js</tspan>
+
+<tspan x="10" y="4010">apidocCreate - libFile js/release/errors.js</tspan>
+
+<tspan x="10" y="4026">apidocCreate - libFile js/release/es5.js</tspan>
+
+<tspan x="10" y="4042">apidocCreate - libFile js/release/filter.js</tspan>
+
+<tspan x="10" y="4058">apidocCreate - libFile js/release/finally.js</tspan>
+
+<tspan x="10" y="4074">apidocCreate - libFile js/release/generators.js</tspan>
+
+<tspan x="10" y="4090">apidocCreate - libFile js/release/join.js</tspan>
+
+<tspan x="10" y="4106">apidocCreate - libFile js/release/map.js</tspan>
+
+<tspan x="10" y="4122">apidocCreate - libFile js/release/method.js</tspan>
+
+<tspan x="10" y="4138">apidocCreate - libFile js/release/nodeback.js</tspan>
+
+<tspan x="10" y="4154">apidocCreate - libFile js/release/nodeify.js</tspan>
+
+<tspan x="10" y="4170">apidocCreate - libFile js/release/promise_array.js</tspan>
+
+<tspan x="10" y="4186">apidocCreate - libFile js/release/promise.js</tspan>
+
+<tspan x="10" y="4202">apidocCreate - libFile js/release/promisify.js</tspan>
+
+<tspan x="10" y="4218">apidocCreate - libFile js/release/props.js</tspan>
+
+<tspan x="10" y="4234">apidocCreate - libFile js/release/queue.js</tspan>
+
+<tspan x="10" y="4250">apidocCreate - libFile js/release/race.js</tspan>
+
+<tspan x="10" y="4266">apidocCreate - libFile js/release/reduce.js</tspan>
+
+<tspan x="10" y="4282">apidocCreate - libFile js/release/schedule.js</tspan>
+
+<tspan x="10" y="4298">apidocCreate - libFile js/release/settle.js</tspan>
+
+<tspan x="10" y="4314">apidocCreate - libFile js/release/some.js</tspan>
+
+<tspan x="10" y="4330">apidocCreate - libFile js/release/synchronous_inspection.js</tspan>
+
+<tspan x="10" y="4346">apidocCreate - libFile js/release/thenables.js</tspan>
+
+<tspan x="10" y="4362">apidocCreate - libFile js/release/timers.js</tspan>
+
+<tspan x="10" y="4378">apidocCreate - libFile js/release/using.js</tspan>
+
+<tspan x="10" y="4394">apidocCreate - libFile js/release/util.js</tspan>
+
+<tspan x="10" y="4410">created customOrg file /home/travis/build/npmtest/node-npmtest-bluebird/README.md</tspan>
+
+<tspan x="10" y="4426"></tspan>
+
+<tspan x="10" y="4442">[node test-case 2 of 8 passed] - testCase_buildLib_default</tspan>
+
+<tspan x="10" y="4458">[node test-case 3 of 8 passed] - testCase_buildReadme_default</tspan>
+
+<tspan x="10" y="4474">[node test-case 4 of 8 passed] - testCase_buildTest_default</tspan>
+
+<tspan x="10" y="4490">[node test-case 5 of 8 passed] - testCase_nop_default</tspan>
+
+<tspan x="10" y="4506"></tspan>
+
+<tspan x="10" y="4522">browserTest - created electron entry-page /home/travis/build/npmtest/node-npmtest-bluebird/tmp/e\</tspan>
+<tspan x="10" y="4538">lectron.163eaf481f90.a49b9f9896379.html</tspan>
+
+<tspan x="10" y="4554"></tspan>
+
+<tspan x="10" y="4570">(node:4537) DeprecationWarning: _linklist module is deprecated. Please use a userland alternativ\</tspan>
+<tspan x="10" y="4586">e.</tspan>
+
+<tspan x="10" y="4602">(node:4537) DeprecationWarning: sys is deprecated. Use util instead.</tspan>
+
+<tspan x="10" y="4618">[node test-case 6 of 8 passed] - testCase_buildCustomOrg_default</tspan>
+
+<tspan x="10" y="4634">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+
+<tspan x="10" y="4650">&gt; server listening on http-port 60778</tspan>
+
+<tspan x="10" y="4666">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+
+<tspan x="10" y="4682">[4653:0610/182803.683446:WARNING:audio_manager.cc(295)] Multiple instances of AudioManager detec\</tspan>
+<tspan x="10" y="4698">ted</tspan>
+
+<tspan x="10" y="4714">[4653:0610/182803.683508:WARNING:audio_manager.cc(254)] Multiple instances of AudioManager detec\</tspan>
+<tspan x="10" y="4730">ted</tspan>
+
+<tspan x="10" y="4746">[4688:0610/182803.737178:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple t\</tspan>
+<tspan x="10" y="4762">hreads in process gpu-process. </tspan>
+
+<tspan x="10" y="4778">[4653:0610/182803.821279:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channe\</tspan>
+<tspan x="10" y="4794">l.</tspan>
+
+<tspan x="10" y="4810">[4653:0610/182803.821539:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channe\</tspan>
+<tspan x="10" y="4826">l.</tspan>
+
+<tspan x="10" y="4842">[4653:0610/182803.821769:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channe\</tspan>
+<tspan x="10" y="4858">l.</tspan>
+
+<tspan x="10" y="4874">[4653:0610/182803.830863:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channe\</tspan>
+<tspan x="10" y="4890">l.</tspan>
+
+<tspan x="10" y="4906">[4653:0610/182803.832344:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channe\</tspan>
+<tspan x="10" y="4922">l.</tspan>
+
+<tspan x="10" y="4938"></tspan>
+
+<tspan x="10" y="4954">browserTest - opened http://127.0.0.1:63630?modeTest=1&amp;timeoutDefault=120000</tspan>
+
+<tspan x="10" y="4970"></tspan>
+
+<tspan x="10" y="4986">[4653:0610/182804.479403:INFO:CONSOLE(266)] "[browser test-case 1 of 8 passed] - testCase_buildA\</tspan>
+<tspan x="10" y="5002">pidoc_default", source: file:///home/travis/build/npmtest/node-npmtest-bluebird/tmp/electron.163\</tspan>
+<tspan x="10" y="5018">eaf481f90.a49b9f9896379.html (266)</tspan>
+
+<tspan x="10" y="5034">[4653:0610/182804.488995:INFO:CONSOLE(266)] "[browser test-case 2 of 8 passed] - testCase_buildA\</tspan>
+<tspan x="10" y="5050">pp_default", source: file:///home/travis/build/npmtest/node-npmtest-bluebird/tmp/electron.163eaf\</tspan>
+<tspan x="10" y="5066">481f90.a49b9f9896379.html (266)</tspan>
+
+<tspan x="10" y="5082">[4653:0610/182804.493330:INFO:CONSOLE(266)] "[browser test-case 3 of 8 passed] - testCase_buildC\</tspan>
+<tspan x="10" y="5098">ustomOrg_default", source: file:///home/travis/build/npmtest/node-npmtest-bluebird/tmp/electron.\</tspan>
+<tspan x="10" y="5114">163eaf481f90.a49b9f9896379.html (266)</tspan>
+
+<tspan x="10" y="5130">[4653:0610/182804.495782:INFO:CONSOLE(266)] "[browser test-case 4 of 8 passed] - testCase_buildL\</tspan>
+<tspan x="10" y="5146">ib_default", source: file:///home/travis/build/npmtest/node-npmtest-bluebird/tmp/electron.163eaf\</tspan>
+<tspan x="10" y="5162">481f90.a49b9f9896379.html (266)</tspan>
+
+<tspan x="10" y="5178">[4653:0610/182804.496466:INFO:CONSOLE(266)] "[browser test-case 5 of 8 passed] - testCase_buildR\</tspan>
+<tspan x="10" y="5194">eadme_default", source: file:///home/travis/build/npmtest/node-npmtest-bluebird/tmp/electron.163\</tspan>
+<tspan x="10" y="5210">eaf481f90.a49b9f9896379.html (266)</tspan>
+
+<tspan x="10" y="5226">[4653:0610/182804.496505:INFO:CONSOLE(266)] "[browser test-case 6 of 8 passed] - testCase_buildT\</tspan>
+<tspan x="10" y="5242">est_default", source: file:///home/travis/build/npmtest/node-npmtest-bluebird/tmp/electron.163ea\</tspan>
+<tspan x="10" y="5258">f481f90.a49b9f9896379.html (266)</tspan>
+
+<tspan x="10" y="5274">[4653:0610/182804.496521:INFO:CONSOLE(266)] "[browser test-case 7 of 8 passed] - testCase_nop_de\</tspan>
+<tspan x="10" y="5290">fault", source: file:///home/travis/build/npmtest/node-npmtest-bluebird/tmp/electron.163eaf481f9\</tspan>
+<tspan x="10" y="5306">0.a49b9f9896379.html (266)</tspan>
+
+<tspan x="10" y="5322">[4653:0610/182804.500422:INFO:CONSOLE(266)] "domStyleValidateUnmatched 0. 0 .testReportDiv .test\</tspan>
+<tspan x="10" y="5338">Failed {", source: file:///home/travis/build/npmtest/node-npmtest-bluebird/tmp/electron.163eaf48\</tspan>
+<tspan x="10" y="5354">1f90.a49b9f9896379.html (266)</tspan>
+
+<tspan x="10" y="5370">[4653:0610/182804.503924:INFO:CONSOLE(266)] "domStyleValidateUnmatched 1. 0 .testReportDiv img {\</tspan>
+<tspan x="10" y="5386">", source: file:///home/travis/build/npmtest/node-npmtest-bluebird/tmp/electron.163eaf481f90.a49\</tspan>
+<tspan x="10" y="5402">b9f9896379.html (266)</tspan>
+
+<tspan x="10" y="5418">[4653:0610/182804.503967:INFO:CONSOLE(266)] "domStyleValidateUnmatched 2. 1 .testReportDiv .disp\</tspan>
+<tspan x="10" y="5434">layNone {", source: file:///home/travis/build/npmtest/node-npmtest-bluebird/tmp/electron.163eaf4\</tspan>
+<tspan x="10" y="5450">81f90.a49b9f9896379.html (266)</tspan>
+
+<tspan x="10" y="5466">[4653:0610/182804.503984:INFO:CONSOLE(266)] "domStyleValidateUnmatched 3. 1 .testReportDiv .foot\</tspan>
+<tspan x="10" y="5482">er {", source: file:///home/travis/build/npmtest/node-npmtest-bluebird/tmp/electron.163eaf481f90\</tspan>
+<tspan x="10" y="5498">.a49b9f9896379.html (266)</tspan>
+
+<tspan x="10" y="5514">[4653:0610/182804.503998:INFO:CONSOLE(266)] "domStyleValidateUnmatched 4. 1 .testReportDiv .summ\</tspan>
+<tspan x="10" y="5530">ary {", source: file:///home/travis/build/npmtest/node-npmtest-bluebird/tmp/electron.163eaf481f9\</tspan>
+<tspan x="10" y="5546">0.a49b9f9896379.html (266)</tspan>
+
+<tspan x="10" y="5562">[4653:0610/182804.507165:INFO:CONSOLE(266)] "domStyleValidateUnmatched 5. 1 .testReportDiv pre {\</tspan>
+<tspan x="10" y="5578">", source: file:///home/travis/build/npmtest/node-npmtest-bluebird/tmp/electron.163eaf481f90.a49\</tspan>
+<tspan x="10" y="5594">b9f9896379.html (266)</tspan>
+
+<tspan x="10" y="5610">[4653:0610/182804.508944:INFO:CONSOLE(266)] "domStyleValidateUnmatched 6. 1 body &gt; pre,", source\</tspan>
+<tspan x="10" y="5626">: file:///home/travis/build/npmtest/node-npmtest-bluebird/tmp/electron.163eaf481f90.a49b9f989637\</tspan>
+<tspan x="10" y="5642">9.html (266)</tspan>
+
+<tspan x="10" y="5658">[4653:0610/182804.510913:INFO:CONSOLE(266)] "domStyleValidateUnmatched 7. 1 body &gt; pre,", source\</tspan>
+<tspan x="10" y="5674">: file:///home/travis/build/npmtest/node-npmtest-bluebird/tmp/electron.163eaf481f90.a49b9f989637\</tspan>
+<tspan x="10" y="5690">9.html (266)</tspan>
+
+<tspan x="10" y="5706">[4653:0610/182804.512340:INFO:CONSOLE(266)] "domStyleValidateUnmatched 8. 1 body {", source: fil\</tspan>
+<tspan x="10" y="5722">e:///home/travis/build/npmtest/node-npmtest-bluebird/tmp/electron.163eaf481f90.a49b9f9896379.htm\</tspan>
+<tspan x="10" y="5738">l (266)</tspan>
+
+<tspan x="10" y="5754">[4653:0610/182804.513320:INFO:CONSOLE(266)] "domStyleValidateUnmatched 9. 1 body {", source: fil\</tspan>
+<tspan x="10" y="5770">e:///home/travis/build/npmtest/node-npmtest-bluebird/tmp/electron.163eaf481f90.a49b9f9896379.htm\</tspan>
+<tspan x="10" y="5786">l (266)</tspan>
+
+<tspan x="10" y="5802">[4653:0610/182804.515933:INFO:CONSOLE(266)] "[browser test-case 8 of 8 passed] - testCase_webpag\</tspan>
+<tspan x="10" y="5818">e_default", source: file:///home/travis/build/npmtest/node-npmtest-bluebird/tmp/electron.163eaf4\</tspan>
+<tspan x="10" y="5834">81f90.a49b9f9896379.html (266)</tspan>
+
+<tspan x="10" y="5850">[4653:0610/182805.511736:INFO:CONSOLE(266)] "----------|-----------|-----------|-----------|----\</tspan>
+<tspan x="10" y="5866">-------|</tspan>
+
+<tspan x="10" y="5882">File      |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
+
+<tspan x="10" y="5898">----------|-----------|-----------|-----------|-----------|</tspan>
+
+<tspan x="10" y="5914">----------|-----------|-----------|-----------|-----------|</tspan>
+
+<tspan x="10" y="5930">All files |       100 |       100 |       100 |       100 |</tspan>
+
+<tspan x="10" y="5946">----------|-----------|-----------|-----------|-----------|</tspan>
+
+<tspan x="10" y="5962">", source: file:///home/travis/build/npmtest/node-npmtest-bluebird/tmp/electron.163eaf481f90.a49\</tspan>
+<tspan x="10" y="5978">b9f9896379.html (266)</tspan>
+
+<tspan x="10" y="5994">[4653:0610/182805.517773:INFO:CONSOLE(266)] "created coverage file /tmp/build/coverage.html/inde\</tspan>
+<tspan x="10" y="6010">x.html", source: file:///home/travis/build/npmtest/node-npmtest-bluebird/tmp/electron.163eaf481f\</tspan>
+<tspan x="10" y="6026">90.a49b9f9896379.html (266)</tspan>
+
+<tspan x="10" y="6042">[node test-case 7 of 8 passed] - testCase_buildApp_default</tspan>
+
+<tspan x="10" y="6058"></tspan>
+
+<tspan x="10" y="6074">browserTest - created screenshot file /home/travis/build/npmtest/node-npmtest-bluebird/tmp/build\</tspan>
+<tspan x="10" y="6090">/screenshot.npmTest.browser.%2F.png</tspan>
+
+<tspan x="10" y="6106"></tspan>
+
+<tspan x="10" y="6122">browserTest - created screenshot file /home/travis/build/npmtest/node-npmtest-bluebird/tmp/build\</tspan>
+<tspan x="10" y="6138">/screenshot.npmTest.browser.%2F.html</tspan>
+
+<tspan x="10" y="6154"></tspan>
+
+<tspan x="10" y="6170">browserTest - exit-code 0 - http://127.0.0.1:63630?modeTest=1&amp;timeoutDefault=120000</tspan>
+
+<tspan x="10" y="6186"></tspan>
+
+<tspan x="10" y="6202"></tspan>
+
+<tspan x="10" y="6218">browserTest - merged coverage from file /home/travis/build/npmtest/node-npmtest-bluebird/tmp/cov\</tspan>
+<tspan x="10" y="6234">erage.npmTest.browser.%2F.json</tspan>
+
+<tspan x="10" y="6250"></tspan>
+
+<tspan x="10" y="6266"></tspan>
+
+<tspan x="10" y="6282">browserTest - merged test-report from file /home/travis/build/npmtest/node-npmtest-bluebird/tmp/\</tspan>
+<tspan x="10" y="6298">test-report.npmTest.browser.%2F.json</tspan>
+
+<tspan x="10" y="6314"></tspan>
+
+<tspan x="10" y="6330">[node test-case 8 of 8 passed] - testCase_webpage_default</tspan>
+
+<tspan x="10" y="6346">-----------------------------------------------------------|-----------|-----------|-----------|\</tspan>
+<tspan x="10" y="6362">-----------|</tspan>
+
+<tspan x="10" y="6378">File                                                       |   % Stmts |% Branches |   % Funcs |\</tspan>
+<tspan x="10" y="6394">   % Lines |</tspan>
+
+<tspan x="10" y="6410">-----------------------------------------------------------|-----------|-----------|-----------|\</tspan>
+<tspan x="10" y="6426">-----------|</tspan>
+
+<tspan x="10" y="6442">   node-npmtest-bluebird/                                  |       100 |       100 |       100 |\</tspan>
+<tspan x="10" y="6458">       100 |</tspan>
+
+<tspan x="10" y="6474">      example.js                                           |       100 |       100 |       100 |\</tspan>
+<tspan x="10" y="6490">       100 |</tspan>
+
+<tspan x="10" y="6506">      lib.npmtest_bluebird.js                              |       100 |       100 |       100 |\</tspan>
+<tspan x="10" y="6522">       100 |</tspan>
+
+<tspan x="10" y="6538">      test.js                                              |       100 |       100 |       100 |\</tspan>
+<tspan x="10" y="6554">       100 |</tspan>
+
+<tspan x="10" y="6570">   node-npmtest-bluebird/node_modules/bluebird/js/browser/ |     28.15 |      8.69 |     17.02 |\</tspan>
+<tspan x="10" y="6586">     28.53 |</tspan>
+
+<tspan x="10" y="6602">      bluebird.core.js                                     |     29.18 |      9.87 |     17.31 |\</tspan>
+<tspan x="10" y="6618">     29.55 |</tspan>
+
+<tspan x="10" y="6634">      bluebird.js                                          |     27.45 |      7.83 |     16.83 |\</tspan>
+<tspan x="10" y="6650">     27.84 |</tspan>
+
+<tspan x="10" y="6666">   node-npmtest-bluebird/node_modules/bluebird/js/release/ |     27.28 |      6.68 |     10.92 |\</tspan>
+<tspan x="10" y="6682">     28.08 |</tspan>
+
+<tspan x="10" y="6698">      any.js                                               |     38.46 |       100 |        25 |\</tspan>
+<tspan x="10" y="6714">     38.46 |</tspan>
+
+<tspan x="10" y="6730">      assert.js                                            |     24.39 |         0 |     33.33 |\</tspan>
+<tspan x="10" y="6746">     28.57 |</tspan>
+
+<tspan x="10" y="6762">      async.js                                             |        37 |      4.17 |      3.85 |\</tspan>
+<tspan x="10" y="6778">     36.08 |</tspan>
+
+<tspan x="10" y="6794">      bind.js                                              |     25.64 |         0 |     11.11 |\</tspan>
+<tspan x="10" y="6810">     26.32 |</tspan>
+
+<tspan x="10" y="6826">      bluebird.js                                          |     63.64 |        25 |         0 |\</tspan>
+<tspan x="10" y="6842">        75 |</tspan>
+
+<tspan x="10" y="6858">      call_get.js                                          |     30.67 |      7.14 |      8.33 |\</tspan>
+<tspan x="10" y="6874">     33.33 |</tspan>
+
+<tspan x="10" y="6890">      cancel.js                                            |     23.75 |         0 |      6.67 |\</tspan>
+<tspan x="10" y="6906">        25 |</tspan>
+
+<tspan x="10" y="6922">      catch_filter.js                                      |     24.14 |         0 |     33.33 |\</tspan>
+<tspan x="10" y="6938">        25 |</tspan>
+
+<tspan x="10" y="6954">      context.js                                           |     31.48 |         0 |     14.29 |\</tspan>
+<tspan x="10" y="6970">     33.33 |</tspan>
+
+<tspan x="10" y="6986">      debuggability.js                                     |     24.64 |     12.81 |       8.6 |\</tspan>
+<tspan x="10" y="7002">     25.42 |</tspan>
+
+<tspan x="10" y="7018">      direct_resolve.js                                    |     24.14 |         0 |     11.11 |\</tspan>
+<tspan x="10" y="7034">     29.17 |</tspan>
+
+<tspan x="10" y="7050">      each.js                                              |     64.29 |       100 |     16.67 |\</tspan>
+<tspan x="10" y="7066">     64.29 |</tspan>
+
+<tspan x="10" y="7082">      errors.js                                            |     49.23 |     11.11 |        25 |\</tspan>
+<tspan x="10" y="7098">        50 |</tspan>
+
+<tspan x="10" y="7114">      es5.js                                               |      12.5 |     14.29 |     11.11 |\</tspan>
+<tspan x="10" y="7130">      12.5 |</tspan>
+
+<tspan x="10" y="7146">      filter.js                                            |     66.67 |       100 |     33.33 |\</tspan>
+<tspan x="10" y="7162">     66.67 |</tspan>
+
+<tspan x="10" y="7178">      finally.js                                           |     22.22 |         0 |      7.69 |\</tspan>
+<tspan x="10" y="7194">     22.78 |</tspan>
+
+<tspan x="10" y="7210">      generators.js                                        |     15.49 |         0 |      5.88 |\</tspan>
+<tspan x="10" y="7226">     15.71 |</tspan>
+
+<tspan x="10" y="7242">      join.js                                              |     43.42 |      6.25 |     71.43 |\</tspan>
+<tspan x="10" y="7258">     45.83 |</tspan>
+
+<tspan x="10" y="7274">      map.js                                               |     15.45 |         0 |      9.09 |\</tspan>
+<tspan x="10" y="7290">     16.19 |</tspan>
+
+<tspan x="10" y="7306">      method.js                                            |     16.67 |         0 |        20 |\</tspan>
+<tspan x="10" y="7322">     16.67 |</tspan>
+
+<tspan x="10" y="7338">      nodeback.js                                          |        25 |         0 |         0 |\</tspan>
+<tspan x="10" y="7354">     27.78 |</tspan>
+
+<tspan x="10" y="7370">      nodeify.js                                           |     26.47 |         0 |        20 |\</tspan>
+<tspan x="10" y="7386">     27.27 |</tspan>
+
+<tspan x="10" y="7402">      promise.js                                           |     30.24 |      1.46 |      5.48 |\</tspan>
+<tspan x="10" y="7418">     31.28 |</tspan>
+
+<tspan x="10" y="7434">      promise_array.js                                     |     17.95 |         0 |      5.88 |\</tspan>
+<tspan x="10" y="7450">     18.42 |</tspan>
+
+<tspan x="10" y="7466">      promisify.js                                         |     22.15 |       2.9 |      4.35 |\</tspan>
+<tspan x="10" y="7482">     23.03 |</tspan>
+
+<tspan x="10" y="7498">      props.js                                             |     27.85 |      5.56 |     15.38 |\</tspan>
+<tspan x="10" y="7514">     26.92 |</tspan>
+
+<tspan x="10" y="7530">      queue.js                                             |     26.53 |         0 |     11.11 |\</tspan>
+<tspan x="10" y="7546">     26.53 |</tspan>
+
+<tspan x="10" y="7562">      race.js                                              |     22.22 |         0 |     16.67 |\</tspan>
+<tspan x="10" y="7578">     22.22 |</tspan>
+
+<tspan x="10" y="7594">      reduce.js                                            |      20.2 |         0 |      6.25 |\</tspan>
+<tspan x="10" y="7610">     20.62 |</tspan>
+
+<tspan x="10" y="7626">      schedule.js                                          |     20.45 |     16.67 |         0 |\</tspan>
+<tspan x="10" y="7642">     20.93 |</tspan>
+
+<tspan x="10" y="7658">      settle.js                                            |     35.71 |         0 |     14.29 |\</tspan>
+<tspan x="10" y="7674">     35.71 |</tspan>
+
+<tspan x="10" y="7690">      some.js                                              |     32.18 |         0 |      4.76 |\</tspan>
+<tspan x="10" y="7706">     32.18 |</tspan>
+
+<tspan x="10" y="7722">      synchronous_inspection.js                            |     40.74 |         0 |      4.76 |\</tspan>
+<tspan x="10" y="7738">     40.74 |</tspan>
+
+<tspan x="10" y="7754">      thenables.js                                         |     21.31 |         0 |      12.5 |\</tspan>
+<tspan x="10" y="7770">     24.07 |</tspan>
+
+<tspan x="10" y="7786">      timers.js                                            |     21.43 |         0 |      8.33 |\</tspan>
+<tspan x="10" y="7802">     22.22 |</tspan>
+
+<tspan x="10" y="7818">      using.js                                             |     20.28 |         0 |         4 |\</tspan>
+<tspan x="10" y="7834">     21.01 |</tspan>
+
+<tspan x="10" y="7850">      util.js                                              |     41.58 |     26.45 |     33.33 |\</tspan>
+<tspan x="10" y="7866">     42.33 |</tspan>
+
+<tspan x="10" y="7882">-----------------------------------------------------------|-----------|-----------|-----------|\</tspan>
+<tspan x="10" y="7898">-----------|</tspan>
+
+<tspan x="10" y="7914">All files                                                  |     29.32 |     10.27 |     16.03 |\</tspan>
+<tspan x="10" y="7930">     29.91 |</tspan>
+
+<tspan x="10" y="7946">-----------------------------------------------------------|-----------|-----------|-----------|\</tspan>
+<tspan x="10" y="7962">-----------|</tspan>
+
+<tspan x="10" y="7978"></tspan>
+
+<tspan x="10" y="7994">created coverage file /home/travis/build/npmtest/node-npmtest-bluebird/tmp/build/coverage.html/i\</tspan>
+<tspan x="10" y="8010">ndex.html</tspan>
+
+<tspan x="10" y="8026"></tspan>
+
+<tspan x="10" y="8042">npmTest - merged test-report from file /home/travis/build/npmtest/node-npmtest-bluebird/tmp/buil\</tspan>
+<tspan x="10" y="8058">d/test-report.json</tspan>
+
+<tspan x="10" y="8074"></tspan>
+
+<tspan x="10" y="8090">-------------------------------------------------------</tspan>
+
+<tspan x="10" y="8106">| test-report - buildApp - node - linux v6.14.2 - 2018-06-10T18:27:51.910Z</tspan>
+
+<tspan x="10" y="8122">|   27176 ms            0 failed        8 passed      |</tspan>
+
+<tspan x="10" y="8138">-------------------------------------------------------</tspan>
+
+<tspan x="10" y="8154">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
+<tspan x="10" y="8170">L, like Gecko) Chrome/58.0.3029.110 Electron/1.7.15 Safari/537.36 - 2018-06-10T18:28:04.418Z</tspan>
+
+<tspan x="10" y="8186">|      33 ms            0 failed        8 passed      |</tspan>
+
+<tspan x="10" y="8202">-------------------------------------------------------</tspan>
+
+<tspan x="10" y="8218"></tspan>
+
+<tspan x="10" y="8234">created test-report file /home/travis/build/npmtest/node-npmtest-bluebird/tmp/build/test-report.\</tspan>
+<tspan x="10" y="8250">html</tspan>
+
+<tspan x="10" y="8266"></tspan>
+
+<tspan x="10" y="8282"></tspan>
+
+<tspan x="10" y="8298">npmTest - 0 failed tests</tspan>
+
+<tspan x="10" y="8314"></tspan>
+
+<tspan x="10" y="8330"></tspan>
+
+<tspan x="10" y="8346">[MODE_BUILD=npmTest] - 2018-06-10T18:28:20.926Z - EXIT_CODE - 0</tspan>
+
+</text>
+</svg>
